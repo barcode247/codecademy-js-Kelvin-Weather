@@ -1,2 +1,2 @@
 # codecademy-js-Kelvin-Weather
-Code that converts Kelvin degrees to Celsius, then to Fahrenheit.
+Codecademy exercise that converts Kelvin degrees to Celsius, then to Fahrenheit.
